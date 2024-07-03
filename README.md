@@ -2,6 +2,10 @@
 
 The Finnhub Stock Estimator (FSE) is a data pipeline that utilizes a selected subset of stock prices from the S&P 500 index, obtained from Finnhub.io. FSE employs Long Short-Term Memory (LSTM) networks for stock price predictions, followed by visualization on a dashboard.
 
+
+This project was completed as part of the Distributed Information Systems course offered by the University of Basel, in collaboration with Raphael Waltenspül. For presentation materials (presentation and report), please refer to the "presentation" folder.
+
+
 ## Startup
 
 
