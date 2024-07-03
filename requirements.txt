@@ -1,0 +1,11 @@
+websockets
+websocket-client
+finnhub-python
+kafka-python
+avro
+pyspark
+python-dotenv
+pandas
+matplotlib
+tensorflow
+scikit-learn
