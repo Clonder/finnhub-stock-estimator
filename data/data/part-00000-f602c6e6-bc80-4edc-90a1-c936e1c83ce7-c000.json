@@ -1,0 +1,6 @@
+{"uuid":"099eb5dc-1835-11ef-9a21-cfd8fbf76dbb","trade_conditions":["24","12"],"price":429.18,"symbol":"MSFT","trade_timestamp":"2024-05-22T14:15:51.697+02:00","volume":25.0,"ingest_timestamp":"2024-05-22T14:15:54.011+02:00"}
+{"uuid":"099eb5dd-1835-11ef-9a21-cfd8fbf76dbb","trade_conditions":["1","24","12"],"price":429.18,"symbol":"MSFT","trade_timestamp":"2024-05-22T14:15:51.697+02:00","volume":25.0,"ingest_timestamp":"2024-05-22T14:15:54.011+02:00"}
+{"uuid":"099eb5de-1835-11ef-9a21-cfd8fbf76dbb","trade_conditions":["1","8","24","12"],"price":192.21,"symbol":"AAPL","trade_timestamp":"2024-05-22T14:15:52.697+02:00","volume":2.0,"ingest_timestamp":"2024-05-22T14:15:54.011+02:00"}
+{"uuid":"099eb5df-1835-11ef-9a21-cfd8fbf76dbb","trade_conditions":["1","24","12"],"price":192.2,"symbol":"AAPL","trade_timestamp":"2024-05-22T14:15:52.751+02:00","volume":5.0,"ingest_timestamp":"2024-05-22T14:15:54.011+02:00"}
+{"uuid":"099eb5e0-1835-11ef-9a21-cfd8fbf76dbb","trade_conditions":["1","24","12"],"price":192.225,"symbol":"AAPL","trade_timestamp":"2024-05-22T14:15:52.994+02:00","volume":1.0,"ingest_timestamp":"2024-05-22T14:15:54.011+02:00"}
+{"uuid":"099eb5e1-1835-11ef-9a21-cfd8fbf76dbb","trade_conditions":["1","24","12"],"price":176.64,"symbol":"GOOGL","trade_timestamp":"2024-05-22T14:15:53.241+02:00","volume":10.0,"ingest_timestamp":"2024-05-22T14:15:54.011+02:00"}

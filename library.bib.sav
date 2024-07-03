@@ -1,0 +1,32 @@
+@WWW{bib:Finnhub2024,
+  author = {Finnhub},
+  date   = {2024-05-23},
+  editor = {Finnhub},
+  title  = {Finnhub API Documentation},
+  url    = {https://finnhub.io/docs/api},
+}
+
+@WWW{bib:Spark2024,
+  author = {Apache Spark},
+  date   = {2024-05-22},
+  editor = {Apache Spark},
+  title  = {Cluster Mode Overview},
+  url    = {https://spark.apache.org/docs/latest/cluster-overview.html},
+}
+
+@WWW{bib:Akamai2024,
+  author = {Akamai},
+  date   = {2024-05-21},
+  editor = {Akamai},
+  title  = {Running Spark on Top of a Hadoop YARN Cluster},
+  url    = {https://www.linode.com/docs/guides/install-configure-run-spark-on-top-of-hadoop-yarn-cluster/},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: saveActions:disabled;
+all-text-fields[identity]
+date[normalize_date]
+month[normalize_month]
+pages[normalize_page_numbers]
+;}
