@@ -1,5 +1,0 @@
-v1
-{"path":"file:///home/ubuntu/tmp/data/part-00000-ebd04e5e-8c99-4504-a2b8-571f6da11641-c000.json","size":23193,"isDir":false,"modificationTime":1716380136626,"blockReplication":1,"blockSize":33554432,"action":"add"}
-{"path":"file:///home/ubuntu/tmp/data/part-00000-a7e96735-e550-49f7-8099-c02caa319ef1-c001.json","size":23230,"isDir":false,"modificationTime":1716380136650,"blockReplication":1,"blockSize":33554432,"action":"add"}
-{"path":"file:///home/ubuntu/tmp/data/part-00000-ba507bf4-1c5f-4237-9213-6738380854ad-c002.json","size":23057,"isDir":false,"modificationTime":1716380136670,"blockReplication":1,"blockSize":33554432,"action":"add"}
-{"path":"file:///home/ubuntu/tmp/data/part-00000-d0e8118a-3bd8-4264-b795-c341f9066835-c003.json","size":18580,"isDir":false,"modificationTime":1716380136694,"blockReplication":1,"blockSize":33554432,"action":"add"}

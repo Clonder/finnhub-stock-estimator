@@ -1,3 +1,0 @@
-{"uuid":"2822e3c0-1835-11ef-9a21-cfd8fbf76dbb","trade_conditions":["8","24","12","41"],"price":429.28,"symbol":"MSFT","trade_timestamp":"2024-05-22T14:16:43.080+02:00","volume":5.0,"ingest_timestamp":"2024-05-22T14:16:45.011+02:00"}
-{"uuid":"2822e3c1-1835-11ef-9a21-cfd8fbf76dbb","trade_conditions":["1","8","24","12"],"price":429.28,"symbol":"MSFT","trade_timestamp":"2024-05-22T14:16:43.080+02:00","volume":5.0,"ingest_timestamp":"2024-05-22T14:16:45.011+02:00"}
-{"uuid":"2822e3c2-1835-11ef-9a21-cfd8fbf76dbb","trade_conditions":["1","24","12"],"price":176.74,"symbol":"GOOGL","trade_timestamp":"2024-05-22T14:16:43.850+02:00","volume":1.0,"ingest_timestamp":"2024-05-22T14:16:45.011+02:00"}
